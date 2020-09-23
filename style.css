@@ -1,0 +1,12 @@
+body{
+    background: url("background.jpg");
+}
+
+div.main{
+    
+    border: chartreuse 5px;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: #81E979;
+}
